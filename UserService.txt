@@ -1,2 +1,5 @@
 hey user service 
 processing user data
+
+
+create an avatar for user
